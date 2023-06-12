@@ -1,0 +1,16 @@
+{
+    "body": "{\"query\":\"I had a dream last night, I was peel an orange in a zoo for a monkey, the mokey took the peeled orange and friendly touched my head.\"}",
+    "resource": "/pythonAIResource",
+    "path": "/pythonAIResource",
+    "httpMethod": "POST",
+    "isBase64Encoded": true,
+    "pathParameters": {
+      "proxy": "/pythonAIApi"
+    },
+    "requestContext": {
+      "path": "/pythonAIResource",
+      "resourcePath": "/pythonAIResource",
+      "httpMethod": "POST",
+      "protocol": "HTTP/1.1"
+    }
+  }

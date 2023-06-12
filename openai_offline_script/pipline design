@@ -1,0 +1,4 @@
+from the query take the keywords
+from the keywords get the related context
+append the context to the query and call the API
+give reference to the context
